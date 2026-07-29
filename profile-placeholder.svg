@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#eaf7ff"/>
+      <stop offset="100%" stop-color="#eafbf5"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#g)"/>
+  <circle cx="300" cy="225" r="105" fill="#c9e7e1"/>
+  <path d="M120 580c20-145 102-225 180-225s160 80 180 225" fill="#0b5b75"/>
+  <circle cx="265" cy="215" r="9" fill="#10283d"/>
+  <circle cx="335" cy="215" r="9" fill="#10283d"/>
+  <path d="M260 270c28 22 52 22 80 0" fill="none" stroke="#10283d" stroke-width="8" stroke-linecap="round"/>
+  <text x="300" y="520" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="28" font-weight="700">Add your professional photo</text>
+</svg>
