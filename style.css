@@ -164,5 +164,4 @@ footer{text-align:center;padding:26px;background:#041a2c;color:#cfe6f4}
   object-fit: cover;
   object-position: center;
   border-radius: 50%;
-  transform:  scale(2);
-}
+ transform: rotate(-90deg) scale(0.92);}
